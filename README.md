@@ -22,16 +22,16 @@
  </div>
  
  ### Main skills:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=fe2828&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-161b21?style=for-the-badge&logo=python&labelColor=161b21)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-161b21?style=for-the-badge&logo=HTML5&logoColor=fe2828&labelColor=161b21)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-161b21?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=161b21)&nbsp;
 
 
 
 ### Studying in this moment:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=fe2828&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-161b21?style=for-the-badge&logo=python&labelColor=161b21)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-161b21?style=for-the-badge&logo=HTML5&logoColor=fe2828&labelColor=161b21)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-161b21?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=161b21)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
